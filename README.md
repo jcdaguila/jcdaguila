@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I am Julio del Aguila 👋
 ```javascript
 const jcdaguila = {
   pronouns: "he" | "him",
@@ -8,6 +8,9 @@ const jcdaguila = {
   tools: ["React", "Redux", "Node", "Django", "Styled-Components", "Docker", "Visual Studio"],
 }
 ```
+You can find me:
+- [Web](https://dleagle.net)
+- [Facebook](https://facebook.com/jcdaguila)
 <!--
 **jcdaguila/jcdaguila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
