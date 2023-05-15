@@ -2,6 +2,8 @@
 ```javascript
 const jcdaguila = {
   pronouns: "he" | "him",
+  technologies: "Web", "Software", "Computers", "Audio and Visual"
+  passions: ["Performance Web", "Web Development", "Desktop Applications"]
   code: [JQuery, Javascript, Typescript, HTML, CSS, Python, Basic, C#, C++],
   tools: [React, Redux, Node, Django, Styled-Components, Docker, Visual Studio],
 }
