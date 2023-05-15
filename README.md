@@ -1,5 +1,11 @@
 ### Hi there 👋
-
+```javascript
+const jcdaguila = {
+  pronouns: "he" | "him",
+  code: [JQuery, Javascript, Typescript, HTML, CSS, Python, Basic, C#, C++],
+  tools: [React, Redux, Node, Django, Styled-Components, Docker, Visual Studio],
+}
+```
 <!--
 **jcdaguila/jcdaguila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
